@@ -1,0 +1,4 @@
+interface:
+  display_name: "Journal Style Profiler"
+  short_description: "Profile and revise for a target journal style"
+  default_prompt: "Use $journal-style-profiler to profile a target academic journal from representative papers and review my draft against it."

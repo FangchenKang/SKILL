@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scholar Profile Writer"
+  short_description: "Create polished Chinese scholar profiles"
+  default_prompt: "Use $scholar-profile-writer to turn source material about a political science or public administration scholar into a concise Chinese profile."
