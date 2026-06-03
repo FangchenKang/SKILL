@@ -7,6 +7,7 @@
 ```text
 generated-style-profiles/
   社会学研究文风.md
+  社会文风.md
 skills/
   academic-writing/
     journal-style-profiler/
@@ -24,3 +25,5 @@ skills/
 `skills/scholar-profiles/scholar-profile-writer` 用于将政治学、公共管理、法学、社会学等社科学者的原始材料整理为中文学者简介。
 
 `generated-style-profiles/社会学研究文风.md` 是已经生成好的《社会学研究》期刊文风 profile，可供后续论文写作和草稿审读调用。
+
+`generated-style-profiles/社会文风.md` 是已经生成好的《社会》期刊文风 profile，可供后续论文写作和草稿审读调用。
